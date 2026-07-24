@@ -1,2 +1,8 @@
 # rasp-lang
-Rasp is a language that compiles to a non-machine-specific bytecode.
+Rasp is a language that compiles to a non-machine-specific bytecode
+
+```rp
+fun void main {
+  sys.writeln("hello!")
+}
+```
